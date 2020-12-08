@@ -10,7 +10,7 @@ Simple pet webpage created with HTML and CSS.
 * open it in aa browser
 
 ## Known Bugs
-This webpage containd no bugs 
+This webpage contains no bugs 
 
 ## Technologies Used
 Poject is created with:
